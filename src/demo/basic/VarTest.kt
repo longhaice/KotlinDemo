@@ -27,7 +27,8 @@ fun box(){
     val anoterBoxedStr: String? = str
     println(boxedA === anotherBoxedA)// ！！！输出“false”！！！
     println(boxedA == anotherBoxedA) // 输出“true”
-    println(boxedStr === anoterBoxedStr)//  输出“true”
+    println(boxedStr === anoterBoxedStr)//  输出“true”:wq
+
     println(boxedStr == anoterBoxedStr) // 输出“true”
 }
 fun main() {
