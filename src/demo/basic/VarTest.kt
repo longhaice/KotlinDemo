@@ -31,9 +31,36 @@ fun box(){
 
     println(boxedStr == anoterBoxedStr) // 输出“true”
 }
+
+fun toTransfer(){
+
+    // var v: Double = 97.9999000000000
+    // var v: Float = 97.9999f
+    var v: Double = 97.9999000000001
+    var value1 = v.toByte()
+    var value2 = v.toShort()
+    var value3 = v.toInt()
+    var value4 = v.toLong()
+    var value5 = v.toFloat()
+    var value6 = v.toDouble()
+    var value7 = v.toChar()
+    var value8 = v.toString()
+
+    printOthers(value1)
+    printOthers(value2)
+    printOthers(value3)
+    printOthers(value4)
+    printOthers(value5)
+    printOthers(value6)
+    printOthers(value7)
+    printOthers(value8)
+
+}
 fun main() {
     //printAll()
+    //box()
+    toTransfer()
 
-    box()
+
 
 }
