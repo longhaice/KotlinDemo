@@ -23,6 +23,8 @@ val eFloat = 2.7182818284f // Float，实际值为 2.7182817
 fun printOthers(v: Any?){
     println(v)
 }
+// 请注意，与⼀些其他语⾔不同，Kotlin 中的数字没有隐式拓宽转换。
+// 例如，具有 Double 参数的函数只 能对 Double 值调⽤，⽽不能对 Float 、Int 或者其他数字值调⽤。
 fun printDouble(v: Double?){
     println(v)
 }
