@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b41c33-d38a-43ca-96ce-a4c9464c3486" name="Default Changelist" comment="version update">
+      <change afterPath="$PROJECT_DIR$/src/demo/basic/LogicTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/basic/CalculationTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/basic/CalculationTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +42,8 @@
       <recent name="D:\IdeaProjects\Github\KotlinDemo\src\demo\function" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CalculationTestKt">
-    <configuration name="CalculationTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.LogicTestKt">
+    <configuration name="CalculationTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -55,7 +56,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="FunTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -68,20 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="LogicTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="demo.basic.MainTestKt" />
+      <option name="MAIN_CLASS_NAME" value="demo.basic.LogicTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ValueTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -94,7 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="VarTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LogicTestKt" />
         <item itemvalue="Kotlin.CalculationTestKt" />
         <item itemvalue="Kotlin.VarTestKt" />
         <item itemvalue="Kotlin.FunTestKt" />
         <item itemvalue="Kotlin.ValueTestKt" />
-        <item itemvalue="Kotlin.MainTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584867217133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version update">
+      <created>1584972519577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584972519577</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,7 +151,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -155,26 +165,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="version update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="782" y="6" key="CommitChangelistDialog2" timestamp="1584867992243">
+    <state x="486" y="7" key="CommitChangelistDialog2" timestamp="1585194928804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="782" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584867992243" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1584869791456">
+    <state x="486" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585194928804" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1584973482873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584869791456" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1584869791456">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584973482873" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1584973482873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584869791456" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1584869791456">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584973482873" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1584973482873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584869791456" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1584869791456">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584973482873" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1584973482873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584869791456" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584973482873" />
     <state x="223" y="32" key="SettingsEditor" timestamp="1584859359916">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
