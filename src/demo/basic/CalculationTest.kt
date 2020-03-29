@@ -3,7 +3,6 @@ package demo.basic
 
 //整数除法
 fun devide(a: Int,b: Int): Any{
-
     return a/b
 }
 
